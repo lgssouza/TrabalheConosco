@@ -69,11 +69,9 @@ Veja abaixo a descrição detalhada de cada vaga.
 
 A área de desenvolvimento C++ na GAS Tecnologia é responsável por:
 
-**Criação de produtos:** Responsável pela análise de dados, identificando tendências e comportamentos. Também é responsável pela visualização, apresentação e comunicação dos resultados. Utiliza conhecimentos de áreas como modelagem estatística, aprendizado de máquina, processamento de linguagem natural e recuperação da informação.
+**Criação de produtos:** Responsável pela criação de novos produtos e tecnologias voltados a área de combate a fraudes;
 
-**Personalização:** Time responsável por analisar o perfil dos usuários com base em suas iterações com os produtos da globo.com e informações proveniente de suas redes sociais. O objetivo com isso é gerar recomendação de conteúdo relevante para os usuário de modo a melhorar a sua experiência nos sites da globo.com, aumentando o tempo de permanência no portal. Trabalha através da formulação de hipóteses, escolha e treinamento de modelos de machine learning e desenvolvimento de testes offline e online (A/B) para validação destas hipóteses.
-
-**Infra-estrutura para big data:** Responsável pela coleta, armazenamento e processamento de grandes massas de dados. É experiente com as principais ferramentas do ecossistema Hadoop (HBase, Spark, Pig, Kafka, Zookeeper, Mahout, Parquet, etc). Avalia, recomenda e constrói plataformas com foco em escalabilidade, alta disponibilidade e tolerância a falhas que auxiliem as necessidades de negócio do portal.
+**Manutenção:** Time responsável por manter os produtos que estão em produção, melhorando a confiabilidade e performance diariamente;
 
 **Requisitos**
 
