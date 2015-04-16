@@ -14,6 +14,13 @@ consigam roubar credenciais sensíveis que podem causar muitos transtornos e prej
 Em suma, **um dos motivos de você querer trabalhar na GAS Tecnologia é ser parte
 de um time que ajuda a combater diariamente Hackers e melhorar a vida de milhões de pessoas.**.
 
+# Um excelente ambiente para trabalhar!
+
+Nós temos um time motivado e sempre com novos desafios, a nossa área de desenvolvimento é dinamica 
+com área de jogos e outras coisas divertidas. Um lugar para você experimentar coisas interessantes e criar
+novas tecnologias para ajudar a vida das pessoas e dificultar a vida dos Hackers!
+
+
 # Ok, quero trabalhar na GAS Tecnologia! Como eu faço?
 
 Se você se convenceu que quer trabalhar na GAS Tecnologia:
@@ -27,15 +34,6 @@ Se você se convenceu que quer trabalhar na GAS Tecnologia:
 Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
 vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
 facebook, sites online, outros trabalhos, etc).
-
-Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo,
-logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar
-por mensagem direta.
-
-Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento
-simplesmente porque dá dinheiro e realmente não está nessa por amor a
-profissão, por favor procure outra empresa. É essencial que os candidatos que
-mandarem currículo sejam apaixonados por desenvolvimento.
 
 
 # Se você não é desenvolvedor e gostaria de trabalhar em outra area
@@ -55,7 +53,6 @@ Temos os seguintes benefícios:
 * Plano de saúde
 * Plano odontológico opcional
 * Seguro de vida
-* Previdência Privada
 
 # Vagas Disponíveis
 
