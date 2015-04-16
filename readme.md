@@ -42,17 +42,18 @@ Envie email para avaliacao.tecnica@gastecnologia.com.br com o seu CV e a área de
 
 # Condições e Benefícios Oferecidos
 
-* Local: Rio de Janeiro ou Porto Alegre, dependendo da vaga (não se preocupe, se você é de fora, nós te ajudamos com a mudança!)
+* Local: Indaiatuba - São Paulo, dependendo da vaga (não se preocupe, se você é de fora, nós te ajudamos com a mudança!)
 * Regime: CLT
 * Período: Integral
 * Contratação imediata
 
 Temos os seguintes benefícios:
 
-* Vale refeição
+* Vale refeição/alimentação
 * Plano de saúde
-* Plano odontológico opcional
+* Plano odontológico participativo
 * Seguro de vida
+* Vale transporte
 
 # Vagas Disponíveis
 
