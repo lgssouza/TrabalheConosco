@@ -65,7 +65,7 @@ Relação de vagas atual:
 
 Veja abaixo a descrição detalhada de cada vaga.
 
-## Área de Desenvolvimento C++ - Vagas em Indaiatuba - São Paulo.
+## Área de Desenvolvimento C++
 
 A área de desenvolvimento C++ na GAS Tecnologia é responsável por:
 
@@ -89,3 +89,4 @@ A área de desenvolvimento C++ na GAS Tecnologia é responsável por:
 
 Se você se encaixa total ou parcialmente nesse perfil, entre em contato conosco.
 
+As vagas estão disponíveis em **Indaiatuba - São Paulo**.
