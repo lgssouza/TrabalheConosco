@@ -42,7 +42,7 @@ Envie email para avaliacao.tecnica@gastecnologia.com.br com o seu CV e a área de
 
 # Condições e Benefícios Oferecidos
 
-* Local: Indaiatuba - São Paulo, dependendo da vaga (não se preocupe, se você é de fora, nós te ajudamos com a mudança!)
+* Local: Indaiatuba - São Paulo
 * Regime: CLT
 * Período: Integral
 * Contratação imediata
